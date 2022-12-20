@@ -14,6 +14,6 @@ Feature: US1002 Amazon search test with background
     And recherche tea pot
     Then les tests dont les résultats incluent tea pot
 
-  Scenario: TC03_Amazon flower Search Test
+  Scenario: TC04_Amazon flower Search Test
     And recherche flower
     Then les tests dont les résultats incluent flower
